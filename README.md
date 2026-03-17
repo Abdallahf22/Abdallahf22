@@ -6,5 +6,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400">
+  <img src="https://raw.githubusercontent.com/9xf9/9xf9/main/astro.gif" onerror="this.src='https://c.tenor.com/uI69_f1j6S8AAAAC/astronaut-floating.gif'" width="300" />
 </p>
