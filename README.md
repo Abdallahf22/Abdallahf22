@@ -1,4 +1,4 @@
-# [Discord 🌐](https://discord.com/users/828026417656758293)
+# [Discord](https://discord.com/users/828026417656758293)
 
 <p align="left">
   <a href="https://discord.com/users/828026417656758293">
