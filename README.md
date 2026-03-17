@@ -6,10 +6,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/ZAMALEK-SC-white?style=for-the-badge&logo=target&logoColor=red" />
-  <img src="https://img.shields.io/badge/School_of_Art_&_Engineering-🏹-red?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=ZAMALEK%20SC&fontSize=70&fontColor=ff0000&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Zamalek_Fan_Forever-white?style=flat-square&logo=adidas&logoColor=black" />
+  <img src="https://img.shields.io/badge/🏹-School_of_Art_&_Engineering-white?style=for-the-badge&logoColor=red&borderColor=red" />
 </p>
