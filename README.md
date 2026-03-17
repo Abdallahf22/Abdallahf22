@@ -6,5 +6,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/9xf9/9xf9/main/astro.gif" onerror="this.src='https://c.tenor.com/uI69_f1j6S8AAAAC/astronaut-floating.gif'" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=9xf9&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4402-b56b-9d857fa24298.gif" width="200" />
 </p>
