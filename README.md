@@ -6,9 +6,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3emR6eXN6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ力をZpbmFsJmN0PWc/3o7TKSj0E0F9e7U_Jm/giphy.gif" width="400" />
-</p>
-
-<p align="center">
-  <i><b>Dino is running... 🏃‍♂️🌵</b></i>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Dino.gif" width="300" />
 </p>
