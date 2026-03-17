@@ -6,9 +6,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=200&section=header&text=ZAMALEK%20SC&fontSize=70&fontColor=ff0000&animation=fadeIn" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3emR6eXN6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ力をZpbmFsJmN0PWc/3o7TKSj0E0F9e7U_Jm/giphy.gif" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏹-School_of_Art_&_Engineering-white?style=for-the-badge&logoColor=red&borderColor=red" />
+  <i><b>Dino is running... 🏃‍♂️🌵</b></i>
 </p>
