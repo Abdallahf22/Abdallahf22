@@ -6,9 +6,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-chess.vercel.app/api?username=9xf9&theme=dark" alt="Chess Game" />
-</p>
-
-<p align="center">
-  <i></i>
+  <img src="https://chess-status.vercel.app/api/board?username=9xf9&theme=natural" alt="Chess Game" />
 </p>
