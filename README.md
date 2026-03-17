@@ -6,9 +6,10 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=9xf9&repo=chess-game&theme=dark&show_owner=true" alt="Chess Game Placeholder" />
+  <img src="https://img.shields.io/badge/ZAMALEK-SC-white?style=for-the-badge&logo=target&logoColor=red" />
+  <img src="https://img.shields.io/badge/School_of_Art_&_Engineering-🏹-red?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/chess-board.svg" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/d/d5/Chess_Board.svg'" width="300px" />
+  <img src="https://img.shields.io/badge/Status-Zamalek_Fan_Forever-white?style=flat-square&logo=adidas&logoColor=black" />
 </p>
