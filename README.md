@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Discord Presence](https://lanyard.cnrad.dev/api/828026417656758293)](https://discord.com/users/828026417656758293)
 
 <!--
 **Abdallahf22/Abdallahf22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
