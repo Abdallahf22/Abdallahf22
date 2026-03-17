@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/828026417656758293?borderRadius=15px&bg=1a1a1a&borderWidth=3px&borderColor=7000ff&v=99" alt="Discord Status" />
+  <img src="https://lanyard.phineas.io/api/828026417656758293?borderRadius=20px&bg=121212&gradient=6e00ff,b800ff" alt="Discord Status" />
 </p>
