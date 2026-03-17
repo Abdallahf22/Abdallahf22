@@ -6,5 +6,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/9xf9/9xf9/main/cat.gif" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3emR6eXN6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ力をZpbmFsJmN0PWc/3o7TKSj0E0F9e7U_Jm/giphy.gif'" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0Z3p4NXh6Z3p4NXh6Z3p4NXh6Z3p4NXh6Z3p4NXh6Z3p4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ力をZpbmFsJmN0PWc/H3pXhMhaO75fHlU7fM/giphy.gif" width="300" />
 </p>
