@@ -6,17 +6,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Gamer_&_Zamalek_Fan-white?style=for-the-badge&logo=soccer&logoColor=red" />
-</p>
-
-<p align="center">
-  <b> 🏹 مدرسة الفن والهندسة 🏹 </b> <br>
-  🎮 <b>Playing...</b> 🏃‍♂️🌵 💨 <br>
-  ✨ <i>"Zamalek SC is my lifestyle"</i> ✨
-</p>
-
----
-
-<p align="center">
-  <b> ♟️ Chess Mode: ON | 🏹 Zamalek Mode: MAX </b>
+  <img src="https://user-images.githubusercontent.com/13468728/234031646-61842fd2-ad30-4570-b99b-c403164993a4.gif" width="300">
 </p>
