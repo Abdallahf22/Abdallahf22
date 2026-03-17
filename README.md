@@ -6,5 +6,17 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Dino.gif" width="300" />
+  <img src="https://img.shields.io/badge/Status-Gamer_&_Zamalek_Fan-white?style=for-the-badge&logo=soccer&logoColor=red" />
+</p>
+
+<p align="center">
+  <b> 🏹 مدرسة الفن والهندسة 🏹 </b> <br>
+  🎮 <b>Playing...</b> 🏃‍♂️🌵 💨 <br>
+  ✨ <i>"Zamalek SC is my lifestyle"</i> ✨
+</p>
+
+---
+
+<p align="center">
+  <b> ♟️ Chess Mode: ON | 🏹 Zamalek Mode: MAX </b>
 </p>
