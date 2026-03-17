@@ -6,9 +6,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9xf9&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-3920-4402-b56b-9d857fa24298.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/9xf9/9xf9/main/cat.gif" onerror="this.src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3emR6eXN6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ力をZpbmFsJmN0PWc/3o7TKSj0E0F9e7U_Jm/giphy.gif'" width="250" />
 </p>
