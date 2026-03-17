@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="https://lanyard.phineas.io/api/828026417656758293?borderRadius=20px&bg=121212&gradient=6e00ff,b800ff" alt="Discord Status" />
+<a href="https://discord.com/users/828026417656758293">
+  <img src="https://discord-status-widget.vercel.app/api?user_id=828026417656758293&theme=dark&bg=transparent" />
+</a>
 </p>
