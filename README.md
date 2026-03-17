@@ -1,4 +1,6 @@
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](828026417656758293)
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://lanyard.wrapped.run/api/828026417656758293?theme=dark&bg=1a1a1a&animated=true" alt="Discord Status" />
+</a>
 
 <!--
 **Abdallahf22/Abdallahf22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
