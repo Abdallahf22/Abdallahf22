@@ -1,4 +1,4 @@
-ڑ<a href="https://discord.com/users/828026417656758293">
+<a href="https://discord.com/users/828026417656758293">
   <img src="https://lanyard.wrapped.run/api/828026417656758293?theme=dark&bg=1a1a1a&animated=true&cache=false" alt="Discord Status" />
 </a>
 <!--
